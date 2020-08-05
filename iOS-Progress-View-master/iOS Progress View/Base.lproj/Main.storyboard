@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="iOS_Progress_View" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" progressViewStyle="bar" progress="0.10000000000000001" translatesAutoresizingMaskIntoConstraints="NO" id="ogr-Py-xhN">
+                                <rect key="frame" x="20" y="442.5" width="374" height="2.5"/>
+                                <color key="backgroundColor" red="0.53666436669999995" green="0.92996728419999997" blue="0.96979290250000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="progressTintColor" systemColor="systemYellowColor" red="1" green="0.80000000000000004" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </progressView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hqp-yn-GLp">
+                                <rect key="frame" x="112" y="511.5" width="190" height="38"/>
+                                <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="20"/>
+                                <state key="normal" title="Start Downloading...">
+                                    <color key="titleColor" red="0.53666436669999995" green="0.92996728419999997" blue="0.96979290250000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="startCount:" destination="BYZ-38-t0r" eventType="touchUpInside" id="0Te-QZ-eD4"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="0 %" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qLC-yX-Afl">
+                                <rect key="frame" x="160" y="338" width="95" height="36"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <color key="textColor" red="0.53666436669999995" green="0.92996728419999997" blue="0.96979290250000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="ogr-Py-xhN" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="0LZ-2s-Cod"/>
+                            <constraint firstItem="ogr-Py-xhN" firstAttribute="centerX" secondItem="hqp-yn-GLp" secondAttribute="centerX" id="3Tf-Cl-fri"/>
+                            <constraint firstItem="qLC-yX-Afl" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="160" id="JE1-Ea-ymX"/>
+                            <constraint firstItem="ogr-Py-xhN" firstAttribute="top" secondItem="qLC-yX-Afl" secondAttribute="bottom" constant="68.5" id="NB1-vL-7yb"/>
+                            <constraint firstItem="qLC-yX-Afl" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="294" id="bUb-Gh-cxE"/>
+                            <constraint firstItem="qLC-yX-Afl" firstAttribute="centerX" secondItem="ogr-Py-xhN" secondAttribute="centerX" id="ew8-ki-449"/>
+                            <constraint firstItem="ogr-Py-xhN" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="qQL-Mn-BB4"/>
+                            <constraint firstItem="hqp-yn-GLp" firstAttribute="top" secondItem="ogr-Py-xhN" secondAttribute="bottom" constant="67.5" id="wI0-nn-M9k"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="progressLabel" destination="qLC-yX-Afl" id="g1a-JJ-UuM"/>
+                        <outlet property="progressView" destination="ogr-Py-xhN" id="lmr-5f-rT8"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="131.8840579710145" y="119.86607142857142"/>
+        </scene>
+    </scenes>
+</document>
