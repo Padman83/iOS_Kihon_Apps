@@ -13,7 +13,7 @@
 
 ### 🔨 Installation: 
 
-# Terminal.
+### Terminal.
 
 ```
 git clone https://github.com/Padman83/iOS_Kihon_Apps.git
