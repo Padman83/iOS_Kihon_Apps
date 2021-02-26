@@ -6,13 +6,10 @@ TableView with AlertController is written in Swift language for iOS Apps.
 
 ![iOS TableView with AlertController](https://user-images.githubusercontent.com/45048950/75095266-0264b600-55ce-11ea-9eed-1bed0ca817e1.gif)
 
-## 🧰 System Requirements
+## 🧰 System Requirements + 🛠️ Installation:
 
 * Xcode Editor
-
 * iPhone 11 or latest version
-
-## 🛠️ Installation
 
 #### Open in Xcode, go to source control -> clone -> enter repository URL.
 
