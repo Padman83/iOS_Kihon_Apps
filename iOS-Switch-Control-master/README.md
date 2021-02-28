@@ -6,13 +6,10 @@ Switch Control is written in Swift language for iOS Apps.
 
 ![iOS Switch Control](https://user-images.githubusercontent.com/45048950/74455782-d3a95a00-4ec0-11ea-9d2a-bcd1991b5a04.gif)
 
-## 🧰 System Requirements
+### 🧰 System Requirements + 🛠️ Installation:
 
 * Xcode Editor
-
 * iPhone 11 or latest version
-
-## 🛠️ Installation
 
 #### Open in Xcode, go to source control -> clone -> enter repository URL.
 
