@@ -6,13 +6,10 @@ ScrollView is written in Swift language for iOS Apps.
 
 ![iOS Scroll View](https://user-images.githubusercontent.com/45048950/74952813-c13c9c80-543b-11ea-908c-55812cd84247.gif)
 
-## 🧰 System Requirements
+### 🧰 System Requirements + 🛠️ Installation:
 
 * Xcode Editor
-
 * iPhone 11 or latest version
-
-## 🛠️ Installation
 
 #### Open in Xcode, go to source control -> clone -> enter repository URL.
 
