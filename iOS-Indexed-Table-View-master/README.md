@@ -6,13 +6,10 @@ Indexed Table View is written in Swift language for iOS Apps.
 
 ![iOS-Indexed-Table-View](https://user-images.githubusercontent.com/45048950/75095471-00035b80-55d0-11ea-92fd-7c9f0fe6528f.gif)
 
-## 🧰 System Requirements
+### 🧰 System Requirements + 🛠️ Installation:
 
 * Xcode Editor
-
 * iPhone 11 or latest version
-
-## 🛠️ Installation
 
 #### Open in Xcode, go to source control -> clone -> enter repository URL.
 
