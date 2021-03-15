@@ -6,13 +6,10 @@ Hallowen Emoji's is written in Swift language for iOS Apps.
 
 ![ezgif com-optimize](https://user-images.githubusercontent.com/45048950/74454846-7234bb80-4ebf-11ea-9b98-e26f7c639337.gif)
 
-## 🧰 System Requirements
+### 🧰 System Requirements + 🛠️ Installation:
 
 * Xcode Editor
-
 * iPhone 11 or latest version
-
-## 🛠️ Installation
 
 #### Open in Xcode, go to source control -> clone -> enter repository URL.
 
