@@ -4,13 +4,10 @@
 
 ![iOS Animated Button](https://user-images.githubusercontent.com/45048950/77666890-7d016680-6fbc-11ea-93f8-66ffa8af0dfe.gif)
 
-## 🧰 System Requirements
+### 🧰 System Requirements + 🛠️ Installation:
 
 * Xcode Editor
-
 * iPhone 11 or latest version
-
-## 🛠️ Installation
 
 #### Open in Xcode, go to source control -> clone -> enter repository URL.
 
