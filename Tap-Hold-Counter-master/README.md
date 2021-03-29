@@ -6,13 +6,10 @@ Tap Hold Counter is written in Swift for iOS Apps.
 
 ![iOS Tap   Hold Counter](https://user-images.githubusercontent.com/45048950/74591404-ae4c5580-5052-11ea-8104-590e62f08de0.gif)
 
-## 🧰 System Requirements
+### 🧰 System Requirements + 🛠️ Installation:
 
 * Xcode Editor
-
 * iPhone 11 or latest version
-
-## 🛠️ Installation
 
 #### Open in Xcode, go to source control -> clone -> enter repository URL.
 
