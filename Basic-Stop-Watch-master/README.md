@@ -4,13 +4,10 @@
 
 ![iOS Basic Stop Watch](https://user-images.githubusercontent.com/45048950/74952604-74f15c80-543b-11ea-8946-fbcbd8cbde78.gif)
 
-## 🧰 System Requirements
+### 🧰 System Requirements + 🛠️ Installation:
 
 * Xcode Editor
-
 * iPhone 11 or latest version
-
-## 🛠️ Installation
 
 #### Open in Xcode, go to source control -> clone -> enter repository URL.
 
