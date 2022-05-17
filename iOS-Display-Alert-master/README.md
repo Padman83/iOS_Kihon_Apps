@@ -9,7 +9,7 @@ Display Alert App is written in Swift language for iOS.
 ### 🧰 System Requirements + 🛠️ Installation:
 
 * Xcode Editor
-* iPhone 11 or latest version
+* iOS Simulator
 
 #### Open in Xcode, go to source control -> clone -> enter repository URL.
 
