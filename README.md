@@ -8,8 +8,7 @@
 
 ### 🏗️ Built With:
 
-* Mac + Xcode Editor
-* 100 % Swift
+* Mac + Xcode Editor + * 100 % Swift
 
 ### 🔨 Installation: 
 
