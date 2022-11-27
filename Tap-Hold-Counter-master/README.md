@@ -8,8 +8,7 @@ Tap Hold Counter is written in Swift for iOS Apps.
 
 ### 🧰 System Requirements + 🛠️ Installation:
 
-* Xcode Editor
-* iOS Simulator
+* Xcode Editor + iOS Simulator 
 
 #### Open in Xcode, go to source control -> clone -> enter repository URL.
 
