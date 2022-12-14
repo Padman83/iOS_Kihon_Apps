@@ -8,8 +8,7 @@ User Default UI App is written in Swift language for iOS Apps.
 
 ## 🧰 System Requirements + 🛠️ Installation:
 
-* Xcode Editor
-* iPhone Simulator
+* Xcode Editor + iPhone Simulator
 
 #### Open in Xcode, go to source control -> clone -> enter repository URL.
 
