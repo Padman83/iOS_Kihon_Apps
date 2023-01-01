@@ -2,15 +2,11 @@
 
 ## 📱 iOS TableView
 
-TableView is written in Swift language for iOS Apps.
-
 ![iOS TableView](https://user-images.githubusercontent.com/45048950/74168198-5386b880-4c64-11ea-8687-7be9f04818f0.gif)
 
 ### 🧰 System Requirements + 🛠️ Installation:
 
-* Xcode Editor
-
-* iOS Simulator
+* Swift + Xcode Editor + iOS Simulator 
 
 #### Open in Xcode, go to source control -> clone -> enter repository URL.
 
