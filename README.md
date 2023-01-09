@@ -8,7 +8,8 @@
 
 ### 🏗️ Built With:
 
-* Mac + Xcode Editor + * 100 % Swift
+* Swift - iOS Programming Language.
++ Xcode - An Integrated Development Environment (IDE) editor.
 
 ### 🔨 Installation: 
 
