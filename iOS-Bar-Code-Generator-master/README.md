@@ -2,13 +2,11 @@
 
 ## 📱 iOS Bar Code Generator
 
-Bar Code Generator App is written in Swift language for iOS.
-
 ![iOS Bar Code Generator](https://user-images.githubusercontent.com/45048950/77667549-52fc7400-6fbd-11ea-8cf5-21110970a871.gif)
 
 ### 🧰 System Requirements + 🛠️ Installation:
 
-* Xcode Editor + iOS Simulator 
+* Xcode Editor + Swift + iOS Simulator 
 
 #### Open in Xcode, go to source control -> clone -> enter repository URL.
 
