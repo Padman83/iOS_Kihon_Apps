@@ -2,13 +2,11 @@
 
 ## 📱 iOS Display Date with Date Picker
 
-Display Date with Date Picker is written in Swift language for iOS Apps.
-
 ![iOS Display Date with Date Picker](https://user-images.githubusercontent.com/45048950/75630904-7552da00-5c29-11ea-8d02-f42ea6185a76.gif)
 
 ### 🧰 System Requirements + 🛠️ Installation:
 
-* Xcode Editor + iOS Simulator
+* Xcode Editor + Swift + iOS Simulator
 
 #### Open in Xcode, go to source control -> clone -> enter repository URL.
 
