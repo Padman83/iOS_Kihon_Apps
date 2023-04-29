@@ -6,7 +6,7 @@
 
 ### 🧰 System Requirements + 🛠️ Installation:
 
-* Xcode Editor + Swift + iOS Simulator
+* Xcode + Swift + iOS Simulator
 
 #### Open in Xcode, go to source control -> clone -> enter repository URL.
 
