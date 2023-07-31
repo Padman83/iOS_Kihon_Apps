@@ -4,7 +4,7 @@
 
 ![iOS Bar Code Generator](https://user-images.githubusercontent.com/45048950/77667549-52fc7400-6fbd-11ea-8cf5-21110970a871.gif)
 
-### 🧰 System Requirements + 🛠️ Installation:
+### 🧰 Requirements + 🛠️ Installation:
 
 * Xcode + Swift + iOS Simulator 
 
