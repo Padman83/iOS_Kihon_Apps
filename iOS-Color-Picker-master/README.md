@@ -4,7 +4,7 @@
 
 ![iOS Color Picker](https://user-images.githubusercontent.com/45048950/74106615-61283980-4ba3-11ea-969c-9f1923bee626.gif)
 
-### 🧰 System Requirements + 🛠️ Installation:
+### 🧰 System + 🛠️ Installation:
 
 * Xcode + Swift + iOS Simulator
 
