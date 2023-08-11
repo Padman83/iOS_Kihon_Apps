@@ -4,7 +4,7 @@
 
 ![iOS Display Alert](https://user-images.githubusercontent.com/45048950/73188215-7a6dc680-415d-11ea-8fe7-b73e77ac692d.gif)
 
-### 🧰 System Requirements + 🛠️ Installation:
+### 🧰 Requirements + 🛠️ Installation:
 
 * Xcode + Swift + iOS Simulator
 
