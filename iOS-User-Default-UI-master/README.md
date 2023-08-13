@@ -4,7 +4,7 @@
 
 ![Screenshot 2020-02-15 at 11 52 55 PM](https://user-images.githubusercontent.com/45048950/74590968-865af300-504e-11ea-85ac-81f11a4b689c.png)
 
-## 🧰 System Requirements + 🛠️ Installation:
+## 🧰 Requirements + 🛠️ Installation:
 
 * Xcode + Swift + iOS Simulator
 
