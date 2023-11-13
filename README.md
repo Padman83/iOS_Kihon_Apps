@@ -9,7 +9,7 @@
 ### 🏗️ Built With:
 
 * Swift
-+ Xcode - An Integrated Development Environment (IDE) editor.
++ Xcode
 
 ### 🔨 Installation: 
 
